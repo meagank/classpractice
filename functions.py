@@ -1,5 +1,3 @@
-print "hello world!"
-
 def student1Function():
     pass
 
