@@ -6,7 +6,7 @@ def student2Function():
 
 
 def student3Function():
-    pass
+    print 4
 
 
 
