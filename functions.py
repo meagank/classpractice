@@ -2,7 +2,7 @@ def student1Function():
     pass
 
 def student2Function():
-    pass
+    print 3
 
 
 def student3Function():
